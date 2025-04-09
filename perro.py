@@ -9,7 +9,7 @@ class Perro(Animal):
         print(f"{self.nombre} dice: ¡Guau!")
 
     def ladrar(self):
-        print(f"{self.nombre} está ladrando: ¡Woof woof!")
+        print(f"{self.nombre} está ladrando")
 
     def mostrar_raza(self):
         print(f"Raza: {self.raza}")
