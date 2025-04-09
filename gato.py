@@ -9,7 +9,7 @@ class Gato(Animal):
         print(f"{self.nombre} dice: ¡Miau!")
 
     def maullar(self):
-        print(f"{self.nombre} está maullando: ¡Miau miau!")
+        print(f"{self.nombre} está maullando: ¡Miau Miau!")
 
     def mostrar_color(self):
         print(f"Color: {self.color}")
