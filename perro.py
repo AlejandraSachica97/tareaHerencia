@@ -6,7 +6,7 @@ class Perro(Animal):
         self.raza = raza
 
     def hacer_sonido(self):
-        print(f"{self.nombre} dice: ¡Guau!")
+        print(f"{self.nombre} dice: ¡Guau Guau!")
 
     def ladrar(self):
         print(f"{self.nombre} está ladrando")
